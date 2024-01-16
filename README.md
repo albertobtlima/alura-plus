@@ -1,9 +1,8 @@
 # HTML e CSS: praticando HTML/CSS
 
-## Curso de HTML e CSS da Alura
 ### Carga Horária: 8h
 
-Projeto Alura Plus
+Projeto Alura Plus desenvolvido durante o curso de HTML e CSS da formação front end da Alura.
 
 ### Temas abordados durante o curso
 1. Construa um site utilizando HTML e CSS
