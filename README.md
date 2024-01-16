@@ -19,3 +19,7 @@ Projeto Alura Plus desenvolvido durante o curso de HTML e CSS da formação fron
 3. Posicionando elementos
 4. Finalizando nossa página
 5. Compartilhando o projeto
+
+### Linguagens usadas
+1. HTML5
+2. CSS3
