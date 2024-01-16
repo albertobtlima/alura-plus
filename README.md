@@ -4,6 +4,8 @@
 
 Projeto Alura Plus desenvolvido durante o curso de HTML e CSS da formação front end da Alura.
 
+<a href="https://albertobtlima.github.io/alura-plus/">Acesse aqui</a>
+
 ### Temas abordados durante o curso
 1. Construa um site utilizando HTML e CSS
 2. Identifique elementos e estilos através do Figma
